@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Elle Wolfgher</h1>
 <h3 align="center">Web Full Stack Developter always in development.</h3>
 
