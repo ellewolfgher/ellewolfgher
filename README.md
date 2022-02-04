@@ -38,10 +38,10 @@
 </p>
 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellewolfgher&show_icons=true&locale=en&layout=compact" alt="ellewolfgher" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellewolfgher&show_icons=true&locale=en&layout=compact" alt="ellewolfgher" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ellewolfgher&show_icons=true&locale=en" alt="ellewolfgher" />
+<p align="center">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ellewolfgher&show_icons=true&locale=en" alt="ellewolfgher" />
 </p>
