@@ -1,6 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Elle Wolfgher!</h1>
 <h3 align="center">Web Full Stack Developter always in development.</h3>
 
+<br>
 
 - 🔭 I’m currently working on personal projects and developing my skills below:
 
