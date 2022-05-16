@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on personal projects and developing my skills below:
 
-- 🌱 I’m currently learning **cloud native, docker, kubernetes and virtual machine**
+- 🌱 I’m currently learning **Python, AWS and React**
 
-- 💬 You can ask me about **HTML, CSS, JavaScript, JQuery, NodeJS and Angular**
+- 💬 You can ask me about **HTML, CSS, JavaScript, JQuery, NodeJS, Angular, Google Cloud Native, Docker, Kubernetes and VMs**
 
 - 📄 I'm fluent in English and Portuguese - BR
 
