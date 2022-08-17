@@ -1,13 +1,13 @@
 <h1 align="center">Hey there 👋, I'm Elle Wolfgher!</h1>
-<h3 align="center">Web Full Stack Developter always in development.</h3>
+<h3 align="center">Software Engineer always in development.</h3>
 
 <br>
 
-- 🔭 I’m currently working on personal projects and developing my skills below:
+- 🔭 I’m currently working on personal projects and studying at 42 Software Engineering school:
 
-- 🌱 I’m currently learning **Python, AWS and React**
+- 🌱 I’m currently learning **C**
 
-- 💬 You can ask me about **HTML, CSS, JavaScript, JQuery, NodeJS, Angular, Google Cloud Native, Docker, Kubernetes and VMs**
+- 💬 You can ask me about **HTML, CSS, JavaScript, JQuery, NodeJS, Python, Angular, Google Cloud Native, Docker, Kubernetes and VMs**
 
 - 📄 I'm fluent in English and Portuguese - BR
 
