@@ -1,4 +1,4 @@
-<h1 align="center">Hoi there! 🖖🏽 I'm Elle Wolfgher!</h1>
+<h1 align="center">Hello there! 🖖🏽 I'm Elle Wolfgher!</h1>
 <h3 align="center">Software Engineer always in development.</h3>
 
 <br>
