@@ -14,7 +14,6 @@
 - 📫 You can reach me through **ellewolfgher@gmail.com**
 
 <br>
----
 
 ## 42 cursus projects
 
