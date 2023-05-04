@@ -24,7 +24,6 @@
 - [ft_printf](https://github.com/ellewolfgher/printf) - My printf function implementation
 - [so_long](https://github.com/ellewolfgher/so_long) - A 2D game written in C
 - [minitalk](https://github.com/ellewolfgher/minitalk) - Communication between two programs using UNIX signals
-
 ##
 ### Phase 2:
 
