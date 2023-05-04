@@ -27,6 +27,12 @@
 
 ---
 
+### Phase 2:
+
+- [push_swap](https://github.com/ellewolfgher/push_swap) - My implementation of a sorting algorithm to solve a two-stack problem
+- [minishell](https://github.com/ellewolfgher/minishell) - My implementation of a mini version of Shell
+- [philosophers](https://github.com/ellewolfgher/philosophers) - Russian roulette of philosophy using threads and mutex
+
 ## Language and Tools
 <p align="center">
 
